@@ -29,3 +29,8 @@ Make sure you have the following installed:
 - Once the server starts, open your browser and visit:
 http://localhost:5000
 
+---
+
+### Software Design Specifications (Version 1.1)
+▶️ [Click here to view the demo]: https://mahindraecolecentrale-my.sharepoint.com/:w:/g/personal/se22uari117_mahindrauniversity_edu_in/EcEWu9UidLpElP-C-YbkeyQBGwpFU6lqEkrMHW-rKxj2oQ?e=UhWVGh
+
