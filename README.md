@@ -25,11 +25,6 @@ Make sure you have the following installed:
 ### Steps
 
 - cd "path to the code" 
-
----
-
-### Install dependencies
-
 - npm install
 - npm run dev
 - Once the server starts, open your browser and visit:
