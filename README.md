@@ -18,7 +18,7 @@ Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (v16 or higher)
 - npm (comes with Node.js)
 - Git (for cloning the repository)
-- PostgreSQL (if the project uses a database)
+
 
 ---
 
