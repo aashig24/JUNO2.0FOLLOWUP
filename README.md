@@ -17,7 +17,6 @@ Make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (v16 or higher)
 - npm (comes with Node.js)
-- Git (for cloning the repository)
 
 
 ---
@@ -28,5 +27,5 @@ Make sure you have the following installed:
 - npm install
 - npm run dev
 - Once the server starts, open your browser and visit:
-http://localhost:3000
+http://localhost:5000
 
