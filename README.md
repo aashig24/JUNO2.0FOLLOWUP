@@ -22,17 +22,16 @@ Make sure you have the following installed:
 
 ---
 
-### Clone the Repository
+### Steps
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name 
+- cd "path to the code" 
 
 ---
 
 ### Install dependencies
 
-npm install
-npm run dev
-Once the server starts, open your browser and visit:
+- npm install
+- npm run dev
+- Once the server starts, open your browser and visit:
 http://localhost:3000
 
