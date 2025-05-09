@@ -1,6 +1,9 @@
 # JUNO2.0
-# App Demonstration:
-https://drive.google.com/drive/folders/1y7QjUIwyK4vNmt3AqCQYJm2p1Z61xGva?usp=share_link
+JUNO 2.0 is a real-time campus utility platform designed to streamline various student services like lost & found, mess tracking, classroom bookings, and mentor sessions within Mahindra University.
+
+---
+## App Demonstration:
+▶️ [Click here to view the demo] https://drive.google.com/drive/folders/1y7QjUIwyK4vNmt3AqCQYJm2p1Z61xGva?usp=share_link
 
 ## Getting Started – Run Locally
 
@@ -24,6 +27,11 @@ Make sure you have the following installed:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+
+---
+
+### Install dependencies
+
 npm install
 npm run dev
 Once the server starts, open your browser and visit:
